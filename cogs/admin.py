@@ -58,7 +58,7 @@ class Admin(commands.Cog):
         
         owner_id = 920475941946396673
         owner_url = f'https://discord.com/users/{owner_id}'
-        github_project = 'https://github.com/staciax/Valorant-DiscordBot'
+        github_project = 'https://github.com/Manh1M65/ValorantStore'
         
         embed = discord.Embed(color=0xffffff)
         embed.set_author(name='ᴠᴀʟᴏʀᴀɴᴛ ʙᴏᴛ ᴘʀᴏᴊᴇᴄᴛ', url=github_project)
